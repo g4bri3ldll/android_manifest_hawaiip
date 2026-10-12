@@ -3,6 +3,6 @@
   <!-- Moto G22 (hawaiip) Repositórios Personalizados -->
   <project path="device/motorola/hawaiip" name="g4bri3ldll/android_device_motorola_hawaiip" remote="github" revision="main" />
   <project path="vendor/motorola/hawaiip" name="g4bri3ldll/android_vendor_motorola_hawaiip" remote="github" revision="main" />
-  ###project path="kernel/motorola/hawaiip" name="g4bri3ldll/motorola_source_code_hawaiip" remote="github" revision="main" />
+  <project path="kernel/motorola/hawaiip" name="g4bri3ldll/motorola_source_code_hawaiip" remote="github" revision="main" />
   <!-- Dependências comuns de hardware/mediatek se necessário, ou outras trees caso precise adicionar depois -->
 </manifest>
